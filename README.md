@@ -1,1 +1,2 @@
 # Multi-Gas-Monitoring-System
+Designed and developed a real-time gas monitoring system aimed at enhancing safety in industrial and mining environments. The system detects hazardous gases and transmits live readings to a custombuilt mobile application, enabling immediate alerts and data visualization. Participated in a competitive tech event to showcase the project, demonstrating its potential to improve workplace safety through IoT and sensor integration.
